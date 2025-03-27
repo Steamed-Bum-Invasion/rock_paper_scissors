@@ -1,0 +1,7 @@
+how to play rock paper scissors. 
+
+first, we ask do you wan to t play? if so game loop!
+
+what is the game loop. ok, the robot hand value is rand, my hands value is asked by cin, then win condition. then assign points. 
+
+do i want to do a best of system? (ok)
